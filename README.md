@@ -11,6 +11,7 @@ while !dead:
   eat()
   #sleep()
   code()
+  pet_cat()
 ```
 
 
