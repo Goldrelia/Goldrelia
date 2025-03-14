@@ -9,7 +9,7 @@ I love coding and cats
 ```
 while !dead:
   eat()
-  #sleep()
+  # sleep()
   code()
   pet_cat()
 ```
